@@ -1,0 +1,17 @@
+{
+  "torch": "2.5.1",
+  "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER",
+  "source": "C:\\Users\\Yeliang\\Documents\\d2l learning pytorch\\reproduction\\experiment\\upstream\\GEARS-master\\gears\\__init__.py",
+  "args": {
+    "epochs": 20,
+    "seeds": [
+      1,
+      2,
+      3
+    ]
+  },
+  "shape": [
+    89357,
+    5054
+  ]
+}

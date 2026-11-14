@@ -218,3 +218,40 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Conda and virtual environments
+.conda/
+venv/
+env/
+
+# Cache
+cache/
+.cache/
+
+# Data
+data/
+*.h5ad
+*.h5
+*.loom
+*.rds
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Logs
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# IDE
+.vscode/
+.idea/
